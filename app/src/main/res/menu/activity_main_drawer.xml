@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="?android:attr/actionModeFindDrawable"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_tailieu"
+            android:icon="?android:attr/actionModeFindDrawable"
+            android:title="Tài liệu" />
+        <item
+            android:id="@+id/nav_baithi"
+            android:icon="?android:attr/actionModePasteDrawable"
+            android:title="Bài thi" />
+
+    </group>
+
+</menu>
